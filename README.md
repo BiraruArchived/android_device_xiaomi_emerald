@@ -14,6 +14,6 @@
   <h2>Known Bugs</h2>
 
   <p>
-  <li>NONE
+  <li>Bricks The Device 😭
   </p>
 </div>
